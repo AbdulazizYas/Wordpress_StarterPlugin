@@ -1,0 +1,17 @@
+{
+    "name": "abdulazizyas/starter",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "AbdulazizYas",
+            "email": "abdulazizyass@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
