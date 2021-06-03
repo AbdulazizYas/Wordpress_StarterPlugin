@@ -3,7 +3,7 @@
 /**
  * Trigger this file on Plugin uninstall
  *
- * @package  AlecadddPlugin
+ * @package  StarterPlugin
  */
 
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {

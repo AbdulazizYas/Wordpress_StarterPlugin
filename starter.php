@@ -46,7 +46,7 @@ function activate_starter_plugin() {
 	Inc\Base\Activate::activate();
 }
 register_activation_hook( __FILE__, 'activate_starter_plugin' );
-
+ 
 /**
  * The code that runs during plugin deactivation
  */
